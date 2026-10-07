@@ -2,6 +2,8 @@
 
 End-to-end Swiggy business analytics using Power BI, SQL, Python, DAX, and Power Query to analyze synthetic sales, customers, restaurants, revenue, and delivery operations. This recruiter-friendly portfolio project demonstrates how raw transactional data can be transformed into business insight.
 
+> **Teaching guide:** Read the [project walkthrough](Docs/project_walkthrough.md) or download the [PDF guide](Docs/project_walkthrough.pdf) for the repository map, data model, KPI definitions, learning steps, and limitations.
+
 > Attribution and reference: This project is based on the public educational repository by Harsh Belekar, adapted and restructured for portfolio use. The original reference remains in the repository history and source materials, and licensing obligations are preserved under the MIT license.
 
 ![Project Banner](Banner.png)
@@ -210,7 +212,7 @@ Swiggy-Business-Operations-Analytics/
 │   ├── Swiggy_Business_Analytics.pbix
 │   ├── screenshots/
 │   └── documentation/
-├── docs/
+├── Docs/
 │   ├── business_requirements.md
 │   ├── data_dictionary.md
 │   ├── data_model.md

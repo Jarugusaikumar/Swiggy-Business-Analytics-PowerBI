@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 root = Path(__file__).resolve().parents[2]
-data_dir = root / 'data' / 'raw'
+data_dir = root / 'Data' / 'raw'
 
 orders = pd.read_csv(data_dir / 'orders.csv')
 restaurants = pd.read_csv(data_dir / 'restaurants.csv')

@@ -1,0 +1,63 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+.env/
+.venv/
+env/
+ENV/
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+*.pem
+*.p12
+*.key
+*.crt
+*.pub
+*.token
+*.secret
+*.bak
+secrets.json
+secrets.yml
+credentials*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Data artifacts not intended for source control
+# Keep raw/processed project data when deliberately tracked; do not include local credentials or local-only files.
+*.sqlite
+*.db
+
+# Local Power BI publishing files and generated outputs
+*.pbi
+
+# Local package caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

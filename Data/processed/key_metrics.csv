@@ -1,0 +1,2 @@
+total_orders,total_revenue_inr,avg_order_value_inr,distinct_customers,cancellation_rate_pct,top_city_revenue_inr,top_city_name
+600000,416956363.49,694.9272724833334,10000,4.953166666666667,92157552.3,Mumbai

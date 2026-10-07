@@ -1,6 +1,6 @@
 ﻿# Swiggy Business & Operations Analytics
 
-A professional, recruiter-friendly analytics portfolio project built around synthetic food-delivery data. This repository demonstrates how raw transactional data can be transformed into business insight using Python, SQL, and Power BI.
+End-to-end Swiggy business analytics using Power BI, SQL, Python, DAX, and Power Query to analyze synthetic sales, customers, restaurants, revenue, and delivery operations. This recruiter-friendly portfolio project demonstrates how raw transactional data can be transformed into business insight.
 
 > Attribution and reference: This project is based on the public educational repository by Harsh Belekar, adapted and restructured for portfolio use. The original reference remains in the repository history and source materials, and licensing obligations are preserved under the MIT license.
 
